@@ -1,0 +1,15 @@
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\bin\Debug\net6.0\Task_4_Home_Work.exe
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\bin\Debug\net6.0\Task_4_Home_Work.deps.json
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\bin\Debug\net6.0\Task_4_Home_Work.runtimeconfig.json
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\bin\Debug\net6.0\Task_4_Home_Work.dll
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\bin\Debug\net6.0\Task_4_Home_Work.pdb
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\Task_4_Home_Work.csproj.AssemblyReference.cache
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\Task_4_Home_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\Task_4_Home_Work.AssemblyInfoInputs.cache
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\Task_4_Home_Work.AssemblyInfo.cs
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\Task_4_Home_Work.csproj.CoreCompileInputs.cache
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\Task_4_Home_Work.dll
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\refint\Task_4_Home_Work.dll
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\Task_4_Home_Work.pdb
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\Task_4_Home_Work.genruntimeconfig.cache
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_4_Home_Work\obj\Debug\net6.0\ref\Task_4_Home_Work.dll

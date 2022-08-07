@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Введите трехзначное число");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number > 99 && number < 1000)
+{
+    Console.WriteLine("Последняя цифра числа " + (number % 10));
+}
+else
+{
+    Console.WriteLine(" Введеное чило не является трехзначным");
+}

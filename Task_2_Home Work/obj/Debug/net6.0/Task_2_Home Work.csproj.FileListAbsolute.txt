@@ -1,0 +1,15 @@
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\Task_2_Home Work.csproj.AssemblyReference.cache
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\Task_2_Home Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\Task_2_Home Work.AssemblyInfoInputs.cache
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\Task_2_Home Work.AssemblyInfo.cs
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\Task_2_Home Work.csproj.CoreCompileInputs.cache
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\bin\Debug\net6.0\Task_2_Home Work.exe
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\bin\Debug\net6.0\Task_2_Home Work.deps.json
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\bin\Debug\net6.0\Task_2_Home Work.runtimeconfig.json
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\bin\Debug\net6.0\Task_2_Home Work.dll
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\bin\Debug\net6.0\Task_2_Home Work.pdb
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\Task_2_Home Work.dll
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\refint\Task_2_Home Work.dll
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\Task_2_Home Work.pdb
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\Task_2_Home Work.genruntimeconfig.cache
+C:\Users\Anatolii\Desktop\git_GB\С#_GB\Task_2_Home Work\obj\Debug\net6.0\ref\Task_2_Home Work.dll
