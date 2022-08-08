@@ -4,17 +4,14 @@ Console.WriteLine("Введите второе число ");
 int b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите третье число");
 int c = Convert.ToInt32(Console.ReadLine());
-int max = 0;
-if (a > b && a > c )
+int max = a;
+if (max < b)
 {
-    max = a;    
+    max = b;    
 }
-else if (b > a && b > c)
+if (max < c)
 {
-    max = b;   
+    max = c;   
 }
-else if (c > a && c > b )
-{
-    max = c;    
-}
+
 Console.WriteLine("Максимальное число = " + max);
