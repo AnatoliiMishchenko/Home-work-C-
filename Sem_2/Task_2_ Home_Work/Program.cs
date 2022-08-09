@@ -1,9 +1,21 @@
 ﻿Console.WriteLine("Введите число");
-int number = Convert.ToInt32(Console.ReadLine());
-if ((number < 999 && number > 99) || (number > -999 && number < -99))
+string number = Console.ReadLine();
+int number1 = Convert.ToInt32(number);
+int freeNumber = 0;
+if (number1 < 999 && number1 > -999)
 {
-    int freeNumber = number > 0 ? (number % 10) : (number % 10 * (-1));
-    Console.WriteLine($"Третья цифра в числе {number} " + " будет " +  freeNumber);
-}else{
-    Console.WriteLine("Введенное число не имеет третьей цифры");
+    if (number1 > 99 || number1 < -99)
+    {
+        freeNumber = number1 > 0 ? (number1 % 10) : (number1 % 10 * (-1));
+        Console.WriteLine($"Третья цифра в числе {number1} " + " будет " + freeNumber);
+    }
+    else
+    {
+        Console.WriteLine("Введенное число не имеет третьей цифры");
+    }
+}
+else
+{
+    freeNumber = Convert.ToInt32(number[2].ToString());
+    Console.WriteLine($"Третья цифра в числе {number1} будет " + freeNumber);
 }
