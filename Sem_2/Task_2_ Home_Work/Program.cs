@@ -16,6 +16,16 @@ if (number1 < 999 && number1 > -999)
 }
 else
 {
-    freeNumber = Convert.ToInt32(number[2].ToString());
-    Console.WriteLine($"Третья цифра в числе {number1} будет " + freeNumber);
+
+    if (number1 > 0)
+    {
+            freeNumber = Convert.ToInt32(number[2].ToString());
+            Console.WriteLine($"Третья цифра в числе {number1} будет " + freeNumber);
+    }
+    else
+        {
+            freeNumber = Convert.ToInt32(number[3].ToString());
+            Console.WriteLine($"Третья цифра в числе {number1} будет " + freeNumber);
+        }
 }
+
