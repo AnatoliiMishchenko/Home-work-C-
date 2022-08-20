@@ -1,10 +1,10 @@
 ﻿
 Console.WriteLine("Введите чило из пяти числе");
 
-string array = Console.ReadLine();
-Console.WriteLine(array.Length);
+string? array = Console.ReadLine();
+Console.WriteLine(array?.Length);
 
-if (array.Length == 5)
+if (array?.Length == 5)
 {
     if (array[0] == array[4] && array[1] == array[3])
     {

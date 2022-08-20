@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число");
-string number = Console.ReadLine();
+string? number = Console.ReadLine();
 int number1 = Convert.ToInt32(number);
 int freeNumber = 0;
 if (number1 < 999 && number1 > -999)
@@ -18,7 +18,7 @@ else
 
 
 {
-    freeNumber = (number1 > 0) ? Convert.ToInt32(number[2].ToString()) : Convert.ToInt32(number[3].ToString());
+    freeNumber = (number1 > 0) ? Convert.ToInt32(number?[2].ToString()) : Convert.ToInt32(number?[3].ToString());
     Console.WriteLine($"Третья цифра в числе {number1} будет " + freeNumber);
 }
 
