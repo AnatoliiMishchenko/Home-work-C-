@@ -19,12 +19,13 @@ return summa;
 Console.WriteLine(SummaNumber(number));
 
 
-// Есть вопрос по данной задаче????? хотел сделдать массивом но не получилось почему???
+
 Console.WriteLine("Введите число");
 string? number2 = Console.ReadLine();
 int summa2 = 0;
 for (int i = 0; i < number2?.Length; i++)
 {
-    summa2 = summa2 + Convert.ToInt32(number2[i]);
+    summa2 = summa2 + Convert.ToInt32(number2[i].ToString());
+  
 }
 Console.WriteLine(summa2);
