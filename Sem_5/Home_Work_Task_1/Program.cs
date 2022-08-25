@@ -46,4 +46,4 @@ int evenNumber(int[] arr)
 }
 int [] arrt = arrayRandom(number);
 Console.WriteLine("[ " + String.Join(" , ", arrt) + "]");
-Console.WriteLine("Количество четных элементов массива " + evenNumber(arrt));// 
+Console.WriteLine("Количество четных элементов массива " + evenNumber(arrt));
