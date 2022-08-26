@@ -14,18 +14,11 @@ int[] arrayOne(int count)
 
 int[] arrayCopi(int[] array)
 {
-    
-
-    int[] arrayCopi = new int[count];
-
-
+       int[] arrayCopi = new int[count];
     for (int j = 0; j < arrayCopi.Length; j++)
-    {
-        
+    {     
         arrayCopi[j] = array[array.Length - 1 -j];
       }
-
-
     return arrayCopi;
 }
 int[] arrayT = arrayOne(count);

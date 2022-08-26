@@ -6,7 +6,7 @@
 
 int count = 0;
 string numberUser = string.Empty;
-Console.WriteLine("Введите числа , для завершения ввода ведите нажмите 0");
+Console.WriteLine("Введите числа , для завершения ввода введите  0");
 
 while(true)
 {
